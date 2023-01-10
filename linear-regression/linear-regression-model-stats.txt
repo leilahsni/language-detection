@@ -1,0 +1,5 @@
+Nombre de prédictions correctes: 6221
+Pourcentage de prédictions correctes : 52%
+Mean absolute error (MAE) : 0.777932019444253
+Mean squared error (MSE) : 1.052477866685522
+Root mean squared error (RMSE): 1.0259034392600124

@@ -1,0 +1,12 @@
+Scores:
+              precision    recall  f1-score   support
+
+     chinese       1.00      0.95      0.97      2967
+     english       0.87      0.95      0.91      2978
+      french       0.90      0.89      0.89      2956
+     italian       0.89      0.86      0.88      3109
+      korean       1.00      1.00      1.00      2993
+
+    accuracy                           0.93     15003
+   macro avg       0.93      0.93      0.93     15003
+weighted avg       0.93      0.93      0.93     15003

@@ -1,0 +1,29 @@
+Scores:
+               precision    recall  f1-score   support
+
+      Arabic       1.00      1.00      1.00       190
+     Chinese       0.99      0.96      0.98       184
+       Dutch       0.99      0.97      0.98       216
+     English       0.78      1.00      0.87       217
+    Estonian       0.99      0.95      0.97       196
+      French       0.96      0.99      0.97       195
+       Hindi       1.00      0.98      0.99       216
+  Indonesian       1.00      0.95      0.98       199
+    Japanese       1.00      0.99      1.00       197
+      Korean       1.00      1.00      1.00       219
+       Latin       0.97      0.94      0.96       186
+     Persian       0.98      0.99      0.99       195
+   Portugese       0.99      0.93      0.96       194
+      Pushto       1.00      0.96      0.98       216
+    Romanian       1.00      1.00      1.00       210
+     Russian       0.99      1.00      0.99       175
+     Spanish       0.98      0.98      0.98       186
+     Swedish       1.00      0.99      1.00       195
+       Tamil       1.00      0.99      0.99       206
+        Thai       1.00      0.98      0.99       225
+     Turkish       1.00      0.98      0.99       196
+        Urdu       0.99      0.98      0.99       187
+
+    accuracy                           0.98      4400
+   macro avg       0.98      0.98      0.98      4400
+weighted avg       0.98      0.98      0.98      4400
